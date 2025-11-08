@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codedinpeace" alt="codedinpeace" /></a> </p>
 
-- 🔭 I’m currently working on **LegalLens AI – an AI-powered legal document analyzer.**
+- 🔭 I’m currently working on **Aptura – a MERN stack Resume Builder.**
 
 - 🌱 I’m currently learning **Next.js, Devops, Data Science, and AI integration workflows.**
 
