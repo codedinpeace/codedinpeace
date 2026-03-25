@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Pranam Shaw
 
-Front-End Developer | UI/UX Designer | Building Real Projects
+MERN Stack Developer | UI/UX Designer | Building Real Projects
 
 ---
 
