@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **codedinpeace/codedinpeace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,30 +30,6 @@ Front-End Developer | UI/UX Designer | Building Real Projects
 
 ---
 
-## Tech Stack
-
-### Frontend
-
-* React
-* JavaScript (ES6+)
-* Tailwind CSS
-* GSAP
-
-### Design
-
-* UI/UX Design
-* Figma
-* Responsive Design
-
-### Backend
-
-* Node.js
-* Express.js
-* MongoDB
-* Mongoose
-
----
-
 ## Current Focus
 
 * Strengthening JavaScript problem-solving
@@ -67,13 +43,7 @@ Front-End Developer | UI/UX Designer | Building Real Projects
 
 * Contribute to open-source repositories
 * Build production-level applications
-* Improve fullStack Skills and engineering
-
----
-
-## Contact
-
-Email: [vea5a.pranam05@gmail.com](mailto:vea5a.pranam05@gmail.com)
+* Improve FullStack Skills and engineering
 
 ---
 
